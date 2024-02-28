@@ -1,0 +1,20 @@
+adb shell pm uninstall -k --user 0 com.android.email
+adb shell pm uninstall -k --user 0 com.miui.huanji
+adb shell pm uninstall -k --user 0 com.miui.compass
+adb shell pm uninstall -k --user 0 com.miui.fm
+adb shell pm uninstall -k --user 0 com.mi.health
+adb shell pm uninstall -k --user 0 com.miui.videoplayer
+adb shell pm uninstall -k --user 0 com.miui.weather2
+adb shell pm uninstall -k --user 0 com.miui.miservice
+adb shell pm uninstall -k --user 0 com.miui.screenrecorder
+adb shell pm uninstall -k --user 0 com.xiaomi.scanner
+adb shell pm uninstall -k --user 0 com.android.browser
+adb shell pm uninstall -k --user 0 com.xiaomi.mipicks
+adb shell pm uninstall -k --user 0 com.mipay.wallet.in
+adb shell pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
+adb shell pm uninstall -k --user 0 com.mi.globalbrowser
+adb shell pm uninstall -k --user 0 com.google.android.apps.nbu.paisa.user
+adb shell pm uninstall -k --user 0 com.android.chrome
+adb shell pm uninstall -k --user 0 com.google.android.youtube
+adb shell pm uninstall -k --user 0 com.samsung.android.game.gamehome
+
